@@ -1,0 +1,9 @@
+@charset "UT8";
+
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Kaushan+Script&family=Play:wght@700&family=Poppins:wght@200;700;800&display=swap');
+
+body {
+    
+    font-family: 'Delicious Handrawn', cursive;
+    font-family: 'Kaushan Script', cursive;
+}

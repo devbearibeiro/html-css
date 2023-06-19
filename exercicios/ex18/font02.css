@@ -1,0 +1,14 @@
+@charset "UT8";
+
+@font-face {
+    font-family: 'pascoa';
+    src: url('fonts/EasterBunnyPersonalUse.ttf') format('truetype');
+}
+h1 {
+    font-family: 'pascoa';
+    text-align: center;
+    
+}
+body {
+    text-indent: 30px;
+}

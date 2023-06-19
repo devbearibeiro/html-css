@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+    height: 100vh;
+   /* background-color: antiquewhite;
+    background-image: url('imagem/fundo-cor.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;*/
+
+    /* color>image>position>repeat>[size]>attchment*/
+
+    background: antiquewhite url('imagem/fundo-cor.jpg') center center no-repeat fixed; 
+    background-size: cover;
+
+
+}
+
+main {
+    width: 400px;
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid pink ;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-indent: 30px;
+    text-align: justify;
+}
